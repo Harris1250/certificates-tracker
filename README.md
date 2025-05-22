@@ -32,6 +32,16 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 | Scrum Fundamentals Certified (SFC)             | SCRUMstudy                | May 2025    | ⏳ In Progress|
 | Agile Project Management                       | Coursera                  | Coming Soon | ⏳ In Progress|
 
+## 🚀 Planned Certifications  
+*These are professional-level certifications I intend to begin soon as part of my continued PM development.*
+
+| Certification Name                                  | Platform                   | Certificate |
+|-----------------------------------------------------|----------------------------|-------------|
+| Scrum Master Certification Specialization           | Coursera                   | ✅ Yes       |
+| Agile Project Management                            | Coursera                   | ✅ Yes       |
+| Scrum Foundation Professional Certificate (SFPC)    | CertiProf                  | ✅ Yes       |
+| Free Scrum Master Training                          | Master of Project Academy  | ✅ Yes       |
+
 ## 📌 Notes
 - All certifications are verifiable and stored locally or available upon request.
 - This tracker is updated regularly to reflect my latest progress and learning milestones.
