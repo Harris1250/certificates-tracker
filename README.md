@@ -14,6 +14,8 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 | Learning Spring with Spring Boot                                 | LinkedIn                  | Oct 2024    | ✅ Complete   |
 | Data Analytics and Visualization                                 | Accenture                 | Jun 2024    | ✅ Complete   |
 | AWS Certifications                                               | Great Learning            | Jan 2024    | ✅ Complete   |
+| Interviewing for Product Management Jobs                         | LinkedIn                  | Jan 2024    | ✅ Complete   |
+| SAP ERP Essential Training                                       | LinkedIn                  | Jan 2024    | ✅ Complete   |
 
 ## ⏳ In Progress
 
