@@ -13,3 +13,4 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 ## 📌 Notes
 - Certificates stored locally or on request (not uploaded for privacy).
 - This tracker is updated as I progress through my PM journey.
+- May 22: Reviewed Scrum and Agile topics
