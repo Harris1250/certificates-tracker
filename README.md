@@ -45,4 +45,4 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 ## 📌 Notes
 - All certifications are verifiable and stored locally or available upon request.
 - This tracker is updated regularly to reflect my latest progress and learning milestones.
-- Last updated: May 22, 2025 – Completed Free Scrum Master Training & reviewed Scrum/Agile topics.
+- Last updated: May 22, 2025 – Completed Scrum Master Training & reviewed Scrum/Agile topics.
