@@ -7,22 +7,23 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 
 | Certification Name                                               | Platform                  | Date Earned | Status       |
 |------------------------------------------------------------------|---------------------------|-------------|--------------|
+| Scrum Foundation Professional Certificate (SFPC)                 | CertiProf                 | May 2025    | ✅ Complete   |
+| Scrum Master Training                                            | Master of Project Academy | May 2025    | ✅ Complete   |
 | Google Project Management Certificate                            | Coursera (Google)         | May 2025    | ✅ Complete   |
 | Foundations of Project Management                                | Coursera (Google)         | May 2025    | ✅ Complete   |
-| Agile Project Management                                         | JPMorgan Chase            | Mar 2024    | ✅ Complete   |
-| Project Management                                               | Accenture                 | Apr 2024    | ✅ Complete   |
 | Implementing Responsible Data Solutions with SQL Querying        | LinkedIn                  | Sep 2024    | ✅ Complete   |
 | Learning Spring with Spring Boot                                 | LinkedIn                  | Oct 2024    | ✅ Complete   |
 | Data Analytics and Visualization                                 | Accenture                 | Jun 2024    | ✅ Complete   |
-| AWS Certifications                                               | Great Learning            | Jan 2024    | ✅ Complete   |
+| Project Management                                               | Accenture                 | Apr 2024    | ✅ Complete   |
+| Agile Project Management                                         | JPMorgan Chase            | Mar 2024    | ✅ Complete   |
 | Interviewing for Product Management Jobs                         | LinkedIn                  | Jan 2024    | ✅ Complete   |
 | SAP ERP Essential Training                                       | LinkedIn                  | Jan 2024    | ✅ Complete   |
+| AWS Certifications                                               | Great Learning            | Jan 2024    | ✅ Complete   |
 | Becoming a Product Manager: A Complete Guide                     | LinkedIn                  | Nov 2023    | ✅ Complete   |
 | Learning Asana                                                   | LinkedIn                  | Sep 2023    | ✅ Complete   |
 | Product Management                                               | Great Learning            | Aug 2023    | ✅ Complete   |
 | Google Ads Search Certification                                  | Google                    | Jun 2023    | ✅ Complete   |
 | Microsoft Word 2013 Certification                                | Microsoft                 | Mar 2022    | ✅ Complete   |
-| Scrum Master Training                                       | Master of Project Academy | May 2025    | ✅ Complete   |
 
 ## ⏳ In Progress  
 *These are certifications currently underway or pending completion.*
@@ -40,9 +41,8 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 |-----------------------------------------------------|----------------------------|-------------|
 | Scrum Master Certification Specialization           | Coursera                   | ✅ Yes       |
 | Agile Project Management                            | Coursera                   | ✅ Yes       |
-| Scrum Foundation Professional Certificate (SFPC)    | CertiProf                  | ✅ Yes       |
 
 ## 📌 Notes
 - All certifications are verifiable and stored locally or available upon request.
 - This tracker is updated regularly to reflect my latest progress and learning milestones.
-- Last updated: May 22, 2025 – Completed Scrum Master Training & reviewed Scrum/Agile topics.
+- Last updated: **May 22, 2025** – Completed *Scrum Foundation Professional Certificate (SFPC)* and *Scrum Master Training*.
