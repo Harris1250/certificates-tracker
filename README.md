@@ -16,6 +16,11 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 | AWS Certifications                                               | Great Learning            | Jan 2024    | ✅ Complete   |
 | Interviewing for Product Management Jobs                         | LinkedIn                  | Jan 2024    | ✅ Complete   |
 | SAP ERP Essential Training                                       | LinkedIn                  | Jan 2024    | ✅ Complete   |
+| Becoming a Product Manager: A Complete Guide                     | LinkedIn                  | Nov 2023    | ✅ Complete   |
+| Learning Asana                                                   | LinkedIn                  | Sep 2023    | ✅ Complete   |
+| Product Management                                               | Great Learning            | Aug 2023    | ✅ Complete   |
+| Google Ads Search Certification                                  | Google                    | Jun 2023    | ✅ Complete   |
+| Microsoft Word 2013 Certification                                | Microsoft                 | Mar 2022    | ✅ Complete   |
 
 ## ⏳ In Progress
 
