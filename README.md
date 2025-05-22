@@ -22,6 +22,7 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 | Product Management                                               | Great Learning            | Aug 2023    | ✅ Complete   |
 | Google Ads Search Certification                                  | Google                    | Jun 2023    | ✅ Complete   |
 | Microsoft Word 2013 Certification                                | Microsoft                 | Mar 2022    | ✅ Complete   |
+| Scrum Master Training                                       | Master of Project Academy | May 2025    | ✅ Complete   |
 
 ## ⏳ In Progress  
 *These are certifications currently underway or pending completion.*
@@ -40,9 +41,8 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 | Scrum Master Certification Specialization           | Coursera                   | ✅ Yes       |
 | Agile Project Management                            | Coursera                   | ✅ Yes       |
 | Scrum Foundation Professional Certificate (SFPC)    | CertiProf                  | ✅ Yes       |
-| Free Scrum Master Training                          | Master of Project Academy  | ✅ Yes       |
 
 ## 📌 Notes
 - All certifications are verifiable and stored locally or available upon request.
 - This tracker is updated regularly to reflect my latest progress and learning milestones.
-- Last updated: May 22, 2025 – Reviewed Scrum & Agile fundamentals.
+- Last updated: May 22, 2025 – Completed Free Scrum Master Training & reviewed Scrum/Agile topics.
