@@ -9,23 +9,23 @@ A transparent portfolio of certifications I'm pursuing to sharpen my project man
 
 | Certification Name                                               | Platform                  | Date Earned | Status       |
 |------------------------------------------------------------------|---------------------------|-------------|--------------|
-| ✅ Scrum Foundation Professional Certificate (SFPC)              | [CertiProf](https://certiprof.com)                 | May 2025    | ✅ Complete   |
-| ✅ Scrum Master Training                                         | [Master of Project Academy](https://masterofproject.com) | May 2025    | ✅ Complete   |
-| ✅ Google Project Management Certificate                         | [Coursera](https://coursera.org) (Google)         | May 2025    | ✅ Complete   |
-| ✅ Foundations of Project Management                             | [Coursera](https://coursera.org) (Google)         | May 2025    | ✅ Complete   |
-| ✅ Implementing Responsible Data Solutions with SQL Querying     | [LinkedIn Learning](https://linkedin.com/learning) | Sep 2024    | ✅ Complete   |
-| ✅ Learning Spring with Spring Boot                              | [LinkedIn Learning](https://linkedin.com/learning) | Oct 2024    | ✅ Complete   |
-| ✅ Data Analytics and Visualization                              | [Accenture](https://www.accenture.com)            | Jun 2024    | ✅ Complete   |
-| ✅ Project Management                                            | [Accenture](https://www.accenture.com)            | Apr 2024    | ✅ Complete   |
-| ✅ Agile Project Management                                      | [JPMorgan Chase](https://www.jpmorganchase.com)   | Mar 2024    | ✅ Complete   |
-| ✅ Interviewing for Product Management Jobs                      | [LinkedIn Learning](https://linkedin.com/learning) | Jan 2024    | ✅ Complete   |
-| ✅ SAP ERP Essential Training                                    | [LinkedIn Learning](https://linkedin.com/learning) | Jan 2024    | ✅ Complete   |
-| ✅ AWS Certifications                                            | [Great Learning](https://www.greatlearning.in)    | Jan 2024    | ✅ Complete   |
-| ✅ Becoming a Product Manager: A Complete Guide                  | [LinkedIn Learning](https://linkedin.com/learning) | Nov 2023    | ✅ Complete   |
-| ✅ Learning Asana                                                | [LinkedIn Learning](https://linkedin.com/learning) | Sep 2023    | ✅ Complete   |
-| ✅ Product Management                                            | [Great Learning](https://www.greatlearning.in)    | Aug 2023    | ✅ Complete   |
-| ✅ Google Ads Search Certification                               | [Google](https://skillshop.withgoogle.com)        | Jun 2023    | ✅ Complete   |
-| ✅ Microsoft Word 2013 Certification                             | [Microsoft](https://www.microsoft.com)            | Mar 2022    | ✅ Complete   |
+| ✅ Scrum Foundation Professional Certificate (SFPC)              | [CertiProf](https://certiprof.com)                 | May 2025    | ✅ Completed   |
+| ✅ Scrum Master Training                                         | [Master of Project Academy](https://masterofproject.com) | May 2025    | ✅ Completed   |
+| ✅ Google Project Management Certificate                         | [Coursera](https://coursera.org) (Google)         | May 2025    | ✅ Completed   |
+| ✅ Foundations of Project Management                             | [Coursera](https://coursera.org) (Google)         | May 2025    | ✅ Completed   |
+| ✅ Implementing Responsible Data Solutions with SQL Querying     | [LinkedIn Learning](https://linkedin.com/learning) | Sep 2024    | ✅ Completed   |
+| ✅ Learning Spring with Spring Boot                              | [LinkedIn Learning](https://linkedin.com/learning) | Oct 2024    | ✅ Completed   |
+| ✅ Data Analytics and Visualization                              | [Accenture](https://www.accenture.com)            | Jun 2024    | ✅ Completed   |
+| ✅ Project Management                                            | [Accenture](https://www.accenture.com)            | Apr 2024    | ✅ Completed   |
+| ✅ Agile Project Management                                      | [JPMorgan Chase](https://www.jpmorganchase.com)   | Mar 2024    | ✅ Completed   |
+| ✅ Interviewing for Product Management Jobs                      | [LinkedIn Learning](https://linkedin.com/learning) | Jan 2024    | ✅ Completed   |
+| ✅ SAP ERP Essential Training                                    | [LinkedIn Learning](https://linkedin.com/learning) | Jan 2024    | ✅ Completed   |
+| ✅ AWS Certifications                                            | [Great Learning](https://www.greatlearning.in)    | Jan 2024    | ✅ Completed   |
+| ✅ Becoming a Product Manager: A Complete Guide                  | [LinkedIn Learning](https://linkedin.com/learning) | Nov 2023    | ✅ Completed   |
+| ✅ Learning Asana                                                | [LinkedIn Learning](https://linkedin.com/learning) | Sep 2023    | ✅ Completed   |
+| ✅ Product Management                                            | [Great Learning](https://www.greatlearning.in)    | Aug 2023    | ✅ Completed   |
+| ✅ Google Ads Search Certification                               | [Google](https://skillshop.withgoogle.com)        | Jun 2023    | ✅ Completed   |
+| ✅ Microsoft Word 2013 Certification                             | [Microsoft](https://www.microsoft.com)            | Mar 2022    | ✅ Completed   |
 
 ---
 
